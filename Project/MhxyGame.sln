@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CF36F74D-C273-B908-59F8-EA608B6F1FB8}") = "MhxyGame", "Assembly-CSharp.csproj", "{C33ABFA3-E6FC-0A02-369F-649B49068516}"
+EndProject
+Project("{CF36F74D-C273-B908-59F8-EA608B6F1FB8}") = "MhxyGame", "Assembly-CSharp-Editor.csproj", "{E5EAAEFE-7792-6A78-D38E-82E392E0E744}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C33ABFA3-E6FC-0A02-369F-649B49068516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C33ABFA3-E6FC-0A02-369F-649B49068516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C33ABFA3-E6FC-0A02-369F-649B49068516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C33ABFA3-E6FC-0A02-369F-649B49068516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5EAAEFE-7792-6A78-D38E-82E392E0E744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5EAAEFE-7792-6A78-D38E-82E392E0E744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5EAAEFE-7792-6A78-D38E-82E392E0E744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5EAAEFE-7792-6A78-D38E-82E392E0E744}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

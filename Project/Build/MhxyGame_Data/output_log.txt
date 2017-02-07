@@ -1,0 +1,173 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     1969 MB
+    Driver:   21.21.13.7563
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\WorkSpace\UnitySpace\MhxyGame\Build\MhxyGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\WorkSpace\UnitySpace\MhxyGame\Build\MhxyGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\WorkSpace\UnitySpace\MhxyGame\Build\MhxyGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\WorkSpace\UnitySpace\MhxyGame\Build\MhxyGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\WorkSpace\UnitySpace\MhxyGame\Build\MhxyGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\WorkSpace\UnitySpace\MhxyGame\Build\MhxyGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\WorkSpace\UnitySpace\MhxyGame\Build\MhxyGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\WorkSpace\UnitySpace\MhxyGame\Build\MhxyGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\WorkSpace\UnitySpace\MhxyGame\Build\MhxyGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\WorkSpace\UnitySpace\MhxyGame\Build\MhxyGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\WorkSpace\UnitySpace\MhxyGame\Build\MhxyGame_Data\Managed\Debugger.dll (this message is harmless)
+Loading D:\WorkSpace\UnitySpace\MhxyGame\Build\MhxyGame_Data\Managed\Debugger.dll into Unity Child Domain
+- Completed reload, in  0.025 seconds
+Platform assembly: D:\WorkSpace\UnitySpace\MhxyGame\Build\MhxyGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\WorkSpace\UnitySpace\MhxyGame\Build\MhxyGame_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on TestProtoBuffer
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on TestUTF8
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on TestCoroutine2
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on LuaClient
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on TestString
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on UseList
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on TestCJson
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on TestCustomLoader
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on TestReflection
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'GameManager') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 1.079606 ms
+18:0:54.198-1: Register lua type cost time: 0.09303904
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+18:0:54.216-1: LuaState start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+18:0:54.228-1: jit    true    CMOV    SSE2    SSE3    SSE4.1    fold    cse    dce    fwd    dse    narrow    loop    abc    sink    fuse
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+18:0:54.229-1: os: Windows, arch: x86
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+18:0:54.243-1: Luas GameMain init!!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+addGameObject
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LoadFile::>> c:/luaframework/resources.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LoadFile::>> c:/luaframework/shared_asset.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnLoadGameObjectFinish
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CubeContraol.init!!!CubeControl.init!!!CubeControl.init!!!CubeControl.init!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CreateSprite = Sprites/ht_ico
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+18:0:54.286-1: Type UnityEngine.Sprite not wrap to lua, push as UnityEngine.Object, the warning is only raised once
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+18:0:55.628-4: Type System.Collections.Generic.List<UnityEngine.GameObject> not wrap to lua, push as System.Collections.Generic.List<T>, the warning is only raised once
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+18:0:57.190-51: OnButtonClick
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CreateSprite = Sprites/ht_ico
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+18:0:57.196-51: layerCount = 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 4cbc -> priority: 1 
+~NetworkManager was destroy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+~ResourceManager was destroy!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+18:0:59.438-116: Lua function Network.Unload not exists
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+18:0:59.452-116: LuaState destroy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+~GameManager was destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

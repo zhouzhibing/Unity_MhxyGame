@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Project Name="Game.luaprj" >
+    <Filter Name="Game" >
+        <Filter Name="Control" >
+            <LuaFile RelativePath=".\Control\Control.lua" />
+            <LuaFile RelativePath=".\Control\CubeControl.lua" />
+        </Filter>
+        <Filter Name="Main" >
+            <LuaFile RelativePath=".\Main\GameManager.lua" />
+            <LuaFile RelativePath=".\Main\Main.lua" />
+        </Filter>
+    </Filter>
+</Project>

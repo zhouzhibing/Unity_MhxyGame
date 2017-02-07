@@ -1,0 +1,49 @@
+require "Game/Control/CubeControl"
+
+function GameManager()
+	
+	local this = {};
+	
+	local resMgr = LuaFramework.LuaHelper.GetResManager();
+	
+	--游戏对象加载完毕
+	local function OnLoadGameObjectFinish(gameObject )
+		
+		local go = UnityEngine.GameObject.Instantiate(gameObject[0]);
+		
+		local imageObject = UnityEngine.GameObject.Find("Image");
+		LuaFramework.Util.Log("OnLoadGameObjectFinish")
+		
+		local cubeControl = CubeControl();
+		
+	end
+	
+	--添加一个游戏物体
+	local function createEmptyGameObject()
+		
+		LuaFramework.Util.Log("addGameObject")
+		local go = UnityEngine.GameObject ('go')
+		go.transform.position = Vector3.one
+		
+	end
+	
+	local function Update()
+		LuaFramework.Util.Log("GameManager.Update")
+	end
+	
+	
+	function init()
+		
+		--MyTestLuaFun.Log();
+		
+		createEmptyGameObject();			--创建一个空的物体对象
+		
+		resMgr:LoadPrefab("resources" , {"TTT"} , OnLoadGameObjectFinish)			--加载对应的
+		
+	end
+	
+	init();
+	
+	return this;
+	
+end
